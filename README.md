@@ -1,3 +1,5 @@
+**SignalR Live Chat Frontend with ReactJs**: [Frontend](https://github.com/Torri04/Live-Chat-Frontend)
+
 # SignalR Live Chat Backend with .NET Core API
 
 This project is a live chat application using SignalR with an ASP.NET Core API backend. It allows users to send and receive messages in real-time, providing a seamless and interactive chat experience.
