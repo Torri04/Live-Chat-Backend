@@ -1,0 +1,6 @@
+@ASP.NET_SignalR_HostAddress = http://localhost:5198
+
+GET {{ASP.NET_SignalR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
